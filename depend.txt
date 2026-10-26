@@ -1,0 +1,9 @@
+https://github.com/GTEMYee/MCJE-env-launcher-downloading/releases/download/dependence/7z.exe
+  out=7z.exe
+  checksum=sha-256=83967f1b02b43c4efeda302795722c809e0e81b8307de73558d10484d5676a7d
+https://github.com/GTEMYee/MCJE-env-launcher-downloading/releases/download/dependence/7z.dll
+  out=7z.dll
+  checksum=sha-256=69fd4df057985c40e510e2fac182881c7f85e90aa13ec703f763a8fdb2ce61f8
+https://github.com/GTEMYee/FolderKeywordRename/releases/download/first/FolderKeywordRename.exe
+  out=FolderKeywordRename.exe
+  checksum=sha-256=dd7879ab76f73ec04ab96e200b0270a789274d9166d711e3cc3f9b3143004a1b

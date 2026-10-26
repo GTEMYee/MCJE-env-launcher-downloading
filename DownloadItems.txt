@@ -1,17 +1,21 @@
-https://cdn.azul.com/zulu/bin/zulu8.90.0.19-ca-fx-jre8.0.472-win_x64.zip
+https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jdk8.0.504-win_x64.zip
   out=Azul-JDKFX8_X64-Win.zip
-  checksum=sha-256=4383fed694c640886dc99a1c38c4f2b3d035a6a4911f17ea8f8dcd35188b527a
-https://cdn.azul.com/zulu/bin/zulu17.62.17-ca-jdk17.0.17-win_x64.zip
-  out=Azul-JDK17_X64-Win.zip
-  checksum=sha-256=bd8a942bb543f109a28d3eadf3ec2f29a3ee28ab53506e31d2858292f63c6949
-https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jdk21.0.9-win_x64.zip
-  out=Azul-JDK21_X64-Win.zip
-  checksum=sha-256=0c9812c0fe527b59f48c70cb527035c8a7abe620b31f776b4ddc21bddc1cd067
-https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-jdk25.0.1-win_x64.zip
-  out=Azul-JDK25_X64-Win.zip
-  checksum=sha-256=72844ba8dddf9259ab9cfda9d515d0c850179705f74278a75973d73f0c5b2d2b
-https://github.com/HMCL-dev/HMCL/releases/download/v3.8.2/HMCL-3.8.2.exe
-  out=HMCL-3.8.2.exe
-  checksum=sha-256=c42cc1caaf97352987a150a5db98486d4f5e110cacc92121f214b06029da70b7
-https://raw.githubusercontent.com/Hex-Dragon/PCL2/main/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
-  out=PCLRealase.zip
+  checksum=sha-256=fea91cc21ed8a8a874bb3f9cdb69d9c7a136f729449a41ea409671edd7739f36
+https://cdn.azul.com/zulu/bin/zulu11.90.205-ca-fx-jdk11.0.32.1-win_x64.zip
+  out=Azul-JDKFX11_X64-Win.zip
+  checksum=sha-256=728beb96b4b3e5a9fb27ef8fc1a4411f646ef2b6b7b1287a43b5e66f60c6b388
+https://cdn.azul.com/zulu/bin/zulu14.29.23-ca-fx-jdk14.0.2-win_x64.zip
+  out=Azul-JDKFX14_X64-Win.zip
+  checksum=sha-256=e3d4755a1fb63df531d00fbaad6d77ef56acb9b5fa6a2f0540f0a95ce735ae3b
+https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jdk17.0.20.1-win_x64.zip
+  out=Azul-JDKFX17_X64-Win.zip
+  checksum=sha-256=45a05e77e082dfc1d5f149c1f9c243fd1bf971e050a3a3c84645e6c89dc1d2d9
+https://cdn.azul.com/zulu/bin/zulu21.52.203-ca-fx-jdk21.0.12.1-win_x64.zip
+  out=Azul-JDKFX21_X64-Win.zip
+  checksum=sha-256=911b89664a7e2ba9775443a46b993a131c50af9f35ef87442bb3d13e686aecba
+https://cdn.azul.com/zulu/bin/zulu25.36.205-ca-fx-jdk25.0.4.1-win_x64.zip
+  out=Azul-JDKFX25_X64-Win.zip
+  checksum=sha-256=bd5f1c434babf1250bc23261f7c7f5a82ade4628b895baed294df0066d79297e
+https://github.com/HMCL-dev/HMCL/releases/download/v3.16.4/HMCL-3.16.4.exe
+  out=HMCL-3.16.4.exe
+  checksum=sha-256=632c2d8873f5a11dd2ffd8418564174995c6a248de5206668c6be114e943e372
